@@ -1,0 +1,22 @@
+# Frontend dependencies/build output
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+
+# Backend build output
+backend/target/
+
+# Environment secrets. Keep examples under version control only.
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env.local
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.docs/
