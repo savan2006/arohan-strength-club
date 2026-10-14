@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect width="120" height="120" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="8" y="8" width="104" height="104" rx="8" fill="#FFFFFF"/>
+  <g transform="translate(20, 20)">
+    
+      <!-- Machine Frame & Pulley -->
+      <line x1="40" y1="10" x2="40" y2="22" stroke="#64748B" stroke-width="3"/>
+      <line x1="15" y1="22" x2="65" y2="22" stroke="#0F172A" stroke-width="3" stroke-linecap="round"/>
+      <!-- Cable -->
+      <circle cx="40" cy="10" r="3" fill="#10B981"/>
+      <!-- Lifter Seated -->
+      <circle cx="40" cy="38" r="5" fill="#10B981"/>
+      <line x1="40" y1="43" x2="40" y2="65" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <!-- Arms gripping bar -->
+      <path d="M 40 45 L 24 23" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+      <path d="M 40 45 L 56 23" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+      <rect x="30" y="65" width="20" height="5" rx="1" fill="#64748B"/>
+    
+  </g>
+  <text x="60" y="108" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="600" fill="#0F172A" text-anchor="middle" letter-spacing="0.5">LAT PULLDOWN</text>
+</svg>
