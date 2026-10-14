@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect width="120" height="120" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="8" y="8" width="104" height="104" rx="8" fill="#FFFFFF"/>
+  <g transform="translate(20, 20)">
+    
+      <!-- Lifter -->
+      <circle cx="40" cy="32" r="5" fill="#10B981"/>
+      <line x1="40" y1="37" x2="40" y2="65" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <!-- Overhead Dumbbells -->
+      <rect x="20" y="12" width="12" height="4" rx="1" fill="#0F172A"/>
+      <circle cx="26" cy="14" r="5" fill="#10B981"/>
+      <line x1="40" y1="40" x2="26" y2="18" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+
+      <rect x="48" y="12" width="12" height="4" rx="1" fill="#0F172A"/>
+      <circle cx="54" cy="14" r="5" fill="#10B981"/>
+      <line x1="40" y1="40" x2="54" y2="18" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+    
+  </g>
+  <text x="60" y="108" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="600" fill="#0F172A" text-anchor="middle" letter-spacing="0.5">SHOULDER PRESS</text>
+</svg>

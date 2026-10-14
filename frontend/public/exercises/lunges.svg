@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect width="120" height="120" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="8" y="8" width="104" height="104" rx="8" fill="#FFFFFF"/>
+  <g transform="translate(20, 20)">
+    
+      <!-- Lifter in Lunge Stance -->
+      <circle cx="38" cy="22" r="5" fill="#10B981"/>
+      <line x1="38" y1="27" x2="38" y2="45" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <!-- Front Leg -->
+      <line x1="38" y1="45" x2="52" y2="48" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+      <line x1="52" y1="48" x2="52" y2="68" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <!-- Back Leg -->
+      <line x1="38" y1="45" x2="26" y2="54" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+      <line x1="26" y1="54" x2="26" y2="68" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+    
+  </g>
+  <text x="60" y="108" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="8" font-weight="600" fill="#0F172A" text-anchor="middle" letter-spacing="0.5">LUNGES</text>
+</svg>
